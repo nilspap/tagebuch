@@ -7,3 +7,7 @@
 - Github Konto angelegt
 - Lebenslauf angefangen
 - Grundlagen von HTML gelernt
+
+## Dienstag 23.1.2024
+
+- 
