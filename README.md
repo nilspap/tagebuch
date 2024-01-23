@@ -7,6 +7,8 @@
 - Github Konto angelegt
 - Lebenslauf angefangen
 - Grundlagen von HTML gelernt
+- lebenslauf fertig gemacht
+- pong angefangen 
 
 ## Dienstag 23.1.2024
 
