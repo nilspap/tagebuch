@@ -64,4 +64,15 @@ https://nodejs.org/en/download/
 
   ## Donnerstag 25.1.2024 
 
-
+  - benutztung von terminal: 
+    -  cd  
+    - dir
+    - cd ..
+  - erstellung eines Servers : 
+    - expressjs als http server 
+    - ws als websocket server  
+  - beginn des shooters 
+  - Ip
+  - client server
+  - ports
+  - 
