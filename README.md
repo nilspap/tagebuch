@@ -72,7 +72,8 @@ https://nodejs.org/en/download/
     - expressjs als http server 
     - ws als websocket server  
   - beginn des shooters 
-  - Ip
-  - client server
-  - ports
+  - Ip-Adressen sind für jeden Computer individuell durch diese ermöglicht man einen Austausch zwischen Computer und Server
+  - client server: der Client fragt den server, dieser schickt eine Antwort. Jedoch nur auf Anfrage.
+  Um auch ohne ständige anfragen daten zu empfangen braucht man einen ws= websocket, dieser ermöglicht einen freien Datenaustausch 
+  - ports: jeder Computer hat eine IpAdresse und um unterschiedliche Actionen aszuführen über 65000 ports. Hier ist der standart Port fürs Programmieren 8080
   - 
