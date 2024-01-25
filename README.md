@@ -56,5 +56,12 @@ x<br />} kann unterschiedliche Funktionen beschreiben <br/>
 
 - NodeJS installiert :
 https://nodejs.org/en/download/
+- instepct function in chrome: 
+  - wenn man auf einer Internetseite rechtsklick drückt kommt man mit der untersten Auswahl auf "inspect" 
+  - inspect kann den code anzeigen und man kann in diesem experimentieren indem man zb den styl ändern und sich das Ergebnis ansieht 
+  - unter console erhält man Fehlermeldungen oder anpassbare Daten 
+  - Unter sorces kann man im code bei einzelnen zeilen anhalten und so auf glitches aufmerksam werden oder Verbesserungs Portential finden 
+
+  ## Donnerstag 25.1.2024 
 
 
