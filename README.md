@@ -47,5 +47,14 @@ x<br />} kann unterschiedliche Funktionen beschreiben <br/>
   - `strg + s` save
   - `strg + shift + Pfeiltaste` mark element/word 
   - `shift + Pfeiltaste` mark one word 
+  - pong fertig gestellt 
+  - problem der unterschiedlichen bilder pro Sekunde erkannt 
+  - neue aufgabe : online multiplayer 
+    - server programieren mit eigenem state 
+    - figur erschaffen die sich mit wasd bewegen kann 
+    - server online Verbindung herstellen 
+
+- NodeJS installiert :
+https://nodejs.org/en/download/
 
 
