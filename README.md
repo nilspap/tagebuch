@@ -64,6 +64,7 @@ https://nodejs.org/en/download/
 
   ## Donnerstag 25.1.2024 
 
+  - Teilnahme und Presentation beim Team meating 
   - benutztung von terminal: 
     -  cd  
     - dir
@@ -76,4 +77,9 @@ https://nodejs.org/en/download/
   - client server: der Client fragt den server, dieser schickt eine Antwort. Jedoch nur auf Anfrage.
   Um auch ohne ständige anfragen daten zu empfangen braucht man einen ws= websocket, dieser ermöglicht einen freien Datenaustausch 
   - ports: jeder Computer hat eine IpAdresse und um unterschiedliche Actionen aszuführen über 65000 ports. Hier ist der standart Port fürs Programmieren 8080
-  - 
+  
+
+  ## Freitag 26..1.2024 
+
+  - Teilnahme an Meetings
+  - Weiter progrsmieren des shooters 
