@@ -83,3 +83,5 @@ https://nodejs.org/en/download/
 
   - Teilnahme an Meetings
   - Weiter progrsmieren des shooters 
+  - read me zu Shooter gemacht und anleitung zum Server gegeben 
+  - im Inspector durch test einen weiteren player hinzugefügt: mit dem Ziel für jeden neuen player der sich einlogt automatisiert player in game zu erstellen 
