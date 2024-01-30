@@ -82,6 +82,6 @@ https://nodejs.org/en/download/
   ## Freitag 26..1.2024 
 
   - Teilnahme an Meetings
-  - Weiter progrsmieren des shooters 
+  - Weiter programieren des shooters 
   - read me zu Shooter gemacht und anleitung zum Server gegeben 
   - im Inspector durch test einen weiteren player hinzugefügt: mit dem Ziel für jeden neuen player der sich einlogt automatisiert player in game zu erstellen 
