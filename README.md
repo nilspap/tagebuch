@@ -79,9 +79,21 @@ https://nodejs.org/en/download/
   - ports: jeder Computer hat eine IpAdresse und um unterschiedliche Actionen aszuführen über 65000 ports. Hier ist der standart Port fürs Programmieren 8080
   
 
-  ## Freitag 26..1.2024 
+  ## Freitag 26.1.2024 
 
   - Teilnahme an Meetings
   - Weiter programieren des shooters 
   - read me zu Shooter gemacht und anleitung zum Server gegeben 
   - im Inspector durch test einen weiteren player hinzugefügt: mit dem Ziel für jeden neuen player der sich einlogt automatisiert player in game zu erstellen 
+
+  ## Montag 29.1.2024
+
+  - Hinzufügen weiterer fetures zum shooter 
+    - einfügen von ton 
+    - soldat erstellt 
+    - schieß animation 
+
+
+## Dienstag 30.1.2024
+  - schießstart berichtigt
+  - 
