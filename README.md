@@ -95,5 +95,7 @@ https://nodejs.org/en/download/
 
 
 ## Dienstag 30.1.2024
-  - schießstart berichtigt
-  - 
+  - viedeospiel weiter programmiert:
+    - einfügen von schieß ton
+    - mehrere Richtungen hinzugefügt 
+  
