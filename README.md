@@ -99,3 +99,7 @@ https://nodejs.org/en/download/
     - einfügen von schieß ton
     - mehrere Richtungen hinzugefügt 
   
+
+  ## Freitag 2.2.2024
+  - npm start server starten
+  - npm run watch server updaten 
